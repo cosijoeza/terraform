@@ -1,5 +1,5 @@
 # Local .terraform directories
-**/.terraform/
+.terraform
 
 
 # .tfstate files
@@ -8,6 +8,3 @@
 
 # Variable files
 *.auto.tfvars
-
-# Google folder
-**/google/
